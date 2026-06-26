@@ -1,0 +1,18 @@
+{
+  "name": "Type Before Answer v3",
+  "package": "type-before-answer-v3",
+  "version": "3.0.0",
+  "mod": 0,
+  "author": "Jack Thompson; v3 modifications by Codex",
+  "description": "Add an optional multiline reviewer typing box with review-focus shortcuts, a top Type menu toggle, cross-platform Korean font fallbacks, font-size config, and draggable box sizing.",
+  "homepage": "https://github.com/jackmastermind/anki-type",
+  "min_point_version": 54,
+  "max_point_version": 0,
+  "branch_index": 0,
+  "conflicts": [
+    "anki-type",
+    "type-before-answer-v2",
+    "type-before-answer-v2-1",
+    "type-before-answer-v2-2"
+  ]
+}
